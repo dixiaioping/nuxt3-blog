@@ -1,15 +1,15 @@
 export default {
   /** -------------------------------------------------以下必须修改----------------------------------------------------- */
 
-  githubName: "yunyuyuan", // 必须修改，github账户名
+  githubName: "dixiaioping", // 必须修改，github账户名
 
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
-  title: "yun yu yuan", // 网站标题
-  nickName: "云与原", // 昵称
+  title: "nicky di", // 网站标题
+  nickName: "零度境界", // 昵称
   domain: "https://blog.yunyuyuan.net", // rss域名
-  SEO_title: " - yunyuyuan blog", // 搜索引擎显示的标题
-  SEO_keywords: "yunyuyuan,yunyuyuan's blog,云与原,云与原的博客", // keywords meta header
+  SEO_title: " - nicky blog", // 搜索引擎显示的标题
+  SEO_keywords: "nicky blog", // keywords meta header
   MSClarityId: "", // Microsoft的Clarity统计，https://clarity.microsoft.com/
   CloudflareAnalyze: "", // cloudflare的统计，https://developers.cloudflare.com/analytics/web-analytics
   CommentRepoId: "", // 评论系统，参考 https://github.com/yunyuyuan/nuxt3-blog/wiki/2.3-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F
